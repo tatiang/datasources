@@ -1,0 +1,1064 @@
+{
+  "Prepopulated_Categories": {
+    "Fruits": [
+      {
+        "favorited": "",
+        "item_name": "Raspberries"
+      },
+      {
+        "favorited": "",
+        "item_name": "Blueberries"
+      },
+      {
+        "favorited": "",
+        "item_name": "Blackberries"
+      },
+      {
+        "favorited": "",
+        "item_name": "Strawberries"
+      },
+      {
+        "favorited": "",
+        "item_name": "Bananas"
+      },
+      {
+        "favorited": "",
+        "item_name": "Kiwis"
+      },
+      {
+        "favorited": "",
+        "item_name": "Grapes"
+      },
+      {
+        "favorited": "",
+        "item_name": "Pineapple"
+      },
+      {
+        "favorited": "",
+        "item_name": "Apples"
+      },
+      {
+        "favorited": "",
+        "item_name": "Pears"
+      }
+    ],
+    "Mains": [
+      {
+        "favorited": "",
+        "item_name": "Bean & Cheese Burrito"
+      },
+      {
+        "favorited": "",
+        "item_name": "Turkey & Pepper Jack Wrap"
+      },
+      {
+        "favorited": "",
+        "item_name": "Turkey & Pepper Jack Sandwich"
+      },
+      {
+        "favorited": "",
+        "item_name": "Chili w/Cheddar"
+      },
+      {
+        "favorited": "",
+        "item_name": "Avocado Roll"
+      },
+      {
+        "favorited": "",
+        "item_name": "Pasta Salad"
+      },
+      {
+        "favorited": "",
+        "item_name": "Sesame Noodles w/Tofu"
+      },
+      {
+        "favorited": "",
+        "item_name": "Saag Paneer"
+      },
+      {
+        "favorited": "",
+        "item_name": "California Roll"
+      },
+      {
+        "favorited": "",
+        "item_name": "Ramen w/Tofu"
+      },
+      {
+        "favorited": "",
+        "item_name": "Bagel & Cream Cheese"
+      },
+      {
+        "favorited": "",
+        "item_name": "Peanut Butter & Jelly Sandwich"
+      },
+      {
+        "favorited": "",
+        "item_name": "Pizza"
+      }
+    ],
+    "Snacks": [
+      {
+        "favorited": "",
+        "item_name": "Potato Chips"
+      },
+      {
+        "favorited": "",
+        "item_name": "Tortilla Chips"
+      },
+      {
+        "favorited": "",
+        "item_name": "Japanese Rice Crackers"
+      },
+      {
+        "favorited": "",
+        "item_name": "Protein Bar"
+      },
+      {
+        "favorited": "",
+        "item_name": "Corn Nuts"
+      },
+      {
+        "favorited": "",
+        "item_name": "Yogurt"
+      },
+      {
+        "favorited": "",
+        "item_name": "Hot Cheetos"
+      },
+      {
+        "favorited": "",
+        "item_name": "Applesauce"
+      },
+      {
+        "favorited": "",
+        "item_name": "Popcorn"
+      },
+      {
+        "favorited": "",
+        "item_name": "Celery w/Cream Cheese & Raisins"
+      },
+      {
+        "favorited": "",
+        "item_name": "Cottage Cheese"
+      },
+      {
+        "favorited": "",
+        "item_name": "Oreo Cookies"
+      },
+      {
+        "favorited": "",
+        "item_name": "Brownies"
+      },
+      {
+        "favorited": "",
+        "item_name": "Hard-Boiled Egg"
+      },
+      {
+        "favorited": "",
+        "item_name": "Pickles"
+      },
+      {
+        "favorited": "",
+        "item_name": "Guacamole & Chips"
+      },
+      {
+        "favorited": "",
+        "item_name": "Crackers & Nut Butter"
+      },
+      {
+        "favorited": "",
+        "item_name": "Olives"
+      },
+      {
+        "favorited": "",
+        "item_name": "Dried Fruits"
+      }
+    ]
+  },
+  "Users": {
+    "6qTn55CjxOSmkAYeqOplqqv4T883": {
+      "Fruits": [
+        {
+          "favorited": "",
+          "item_name": "Raspberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blueberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blackberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Strawberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bananas"
+        },
+        {
+          "favorited": "",
+          "item_name": "Kiwis"
+        },
+        {
+          "favorited": "",
+          "item_name": "Grapes"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pineapple"
+        },
+        {
+          "favorited": "",
+          "item_name": "Apples"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pears"
+        }
+      ],
+      "Mains": [
+        {
+          "favorited": "",
+          "item_name": "Bean & Cheese Burrito"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Wrap"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Chili w/Cheddar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Avocado Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pasta Salad"
+        },
+        {
+          "favorited": "",
+          "item_name": "Sesame Noodles w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Saag Paneer"
+        },
+        {
+          "favorited": "",
+          "item_name": "California Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Ramen w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bagel & Cream Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Peanut Butter & Jelly Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pizza"
+        }
+      ],
+      "Snacks": [
+        {
+          "favorited": "",
+          "item_name": "Potato Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Tortilla Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Japanese Rice Crackers"
+        },
+        {
+          "favorited": "",
+          "item_name": "Protein Bar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Corn Nuts"
+        },
+        {
+          "favorited": "",
+          "item_name": "Yogurt"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hot Cheetos"
+        },
+        {
+          "favorited": "",
+          "item_name": "Applesauce"
+        },
+        {
+          "favorited": "",
+          "item_name": "Popcorn"
+        },
+        {
+          "favorited": "",
+          "item_name": "Celery w/Cream Cheese & Raisins"
+        },
+        {
+          "favorited": "",
+          "item_name": "Cottage Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Oreo Cookies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Brownies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hard-Boiled Egg"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pickles"
+        },
+        {
+          "favorited": "",
+          "item_name": "Guacamole & Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Crackers & Nut Butter"
+        },
+        {
+          "favorited": "",
+          "item_name": "Olives"
+        },
+        {
+          "favorited": "",
+          "item_name": "Dried Fruits"
+        }
+      ]
+    },
+    "ZemULbdVmvfJgRKmKYCDHkPedmo1": {
+      "Fruits": [
+        {
+          "favorited": "❤️",
+          "item_name": "Raspberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blueberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blackberries"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Strawberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bananas"
+        },
+        {
+          "favorited": "",
+          "item_name": "Kiwis"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Grapes"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Pineapple"
+        },
+        {
+          "favorited": "",
+          "item_name": "Apples"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pears"
+        }
+      ],
+      "Mains": [
+        {
+          "favorited": "❤️",
+          "item_name": "Bean & Cheese Burrito"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Wrap"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Sandwich"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Chili w/Cheddar"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Avocado Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pasta Salad"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Sesame Noodles w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Saag Paneer"
+        },
+        {
+          "favorited": "",
+          "item_name": "California Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Ramen w/Tofu"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Bagel & Cream Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Peanut Butter & Jelly Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pizza"
+        }
+      ],
+      "Snacks": [
+        {
+          "favorited": "❤️",
+          "item_name": "Potato Chips"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Tortilla Chips"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Japanese Rice Crackers"
+        },
+        {
+          "favorited": "",
+          "item_name": "Protein Bar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Corn Nuts"
+        },
+        {
+          "favorited": "",
+          "item_name": "Yogurt"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hot Cheetos"
+        },
+        {
+          "favorited": "",
+          "item_name": "Applesauce"
+        },
+        {
+          "favorited": "",
+          "item_name": "Popcorn"
+        },
+        {
+          "favorited": "",
+          "item_name": "Celery w/Cream Cheese & Raisins"
+        },
+        {
+          "favorited": "",
+          "item_name": "Cottage Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Oreo Cookies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Brownies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hard-Boiled Egg"
+        },
+        {
+          "favorited": "",
+          "item_name": "Guacamole & Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Crackers & Nut Butter"
+        },
+        {
+          "favorited": "",
+          "item_name": "Olives"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Dried Fruits"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pickles"
+        },
+        {
+          "favorited": "",
+          "item_name": "Rice Cakes"
+        }
+      ]
+    },
+    "gubqEY8n74gCiLa5ajVLkXhP4J22": {
+      "Fruits": [
+        {
+          "favorited": "",
+          "item_name": "Raspberries"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Blueberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blackberries"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Strawberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bananas"
+        },
+        {
+          "favorited": "",
+          "item_name": "Kiwis"
+        },
+        {
+          "favorited": "",
+          "item_name": "Grapes"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pineapple"
+        },
+        {
+          "favorited": "",
+          "item_name": "Apples"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pears"
+        }
+      ],
+      "Mains": [
+        {
+          "favorited": "❤️",
+          "item_name": "Bean & Cheese Burrito"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Wrap"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Turkey & Pepper Jack Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Chili w/Cheddar"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Avocado Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pasta Salad"
+        },
+        {
+          "favorited": "",
+          "item_name": "Sesame Noodles w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Saag Paneer"
+        },
+        {
+          "favorited": "",
+          "item_name": "California Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Ramen w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bagel & Cream Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Peanut Butter & Jelly Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pizza"
+        }
+      ],
+      "Snacks": [
+        {
+          "favorited": "",
+          "item_name": "Potato Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Tortilla Chips"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Japanese Rice Crackers"
+        },
+        {
+          "favorited": "❤️",
+          "item_name": "Protein Bar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Corn Nuts"
+        },
+        {
+          "favorited": "",
+          "item_name": "Yogurt"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hot Cheetos"
+        },
+        {
+          "favorited": "",
+          "item_name": "Applesauce"
+        },
+        {
+          "favorited": "",
+          "item_name": "Popcorn"
+        },
+        {
+          "favorited": "",
+          "item_name": "Celery w/Cream Cheese & Raisins"
+        },
+        {
+          "favorited": "",
+          "item_name": "Cottage Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Oreo Cookies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Brownies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hard-Boiled Egg"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pickles"
+        },
+        {
+          "favorited": "",
+          "item_name": "Guacamole & Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Crackers & Nut Butter"
+        },
+        {
+          "favorited": "",
+          "item_name": "Olives"
+        },
+        {
+          "favorited": "",
+          "item_name": "Dried Fruits"
+        }
+      ]
+    },
+    "ikVyJMT71MUNMGvajO441sZqbJA2": {
+      "Fruits": [
+        {
+          "favorited": "",
+          "item_name": "Raspberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blueberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blackberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Strawberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bananas"
+        },
+        {
+          "favorited": "",
+          "item_name": "Kiwis"
+        },
+        {
+          "favorited": "",
+          "item_name": "Grapes"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pineapple"
+        },
+        {
+          "favorited": "",
+          "item_name": "Apples"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pears"
+        }
+      ],
+      "Mains": [
+        {
+          "favorited": "",
+          "item_name": "Bean & Cheese Burrito"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Wrap"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Chili w/Cheddar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Avocado Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pasta Salad"
+        },
+        {
+          "favorited": "",
+          "item_name": "Sesame Noodles w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Saag Paneer"
+        },
+        {
+          "favorited": "",
+          "item_name": "California Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Ramen w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bagel & Cream Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Peanut Butter & Jelly Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pizza"
+        }
+      ],
+      "Snacks": [
+        {
+          "favorited": "",
+          "item_name": "Potato Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Tortilla Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Japanese Rice Crackers"
+        },
+        {
+          "favorited": "",
+          "item_name": "Protein Bar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Corn Nuts"
+        },
+        {
+          "favorited": "",
+          "item_name": "Yogurt"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hot Cheetos"
+        },
+        {
+          "favorited": "",
+          "item_name": "Applesauce"
+        },
+        {
+          "favorited": "",
+          "item_name": "Popcorn"
+        },
+        {
+          "favorited": "",
+          "item_name": "Celery w/Cream Cheese & Raisins"
+        },
+        {
+          "favorited": "",
+          "item_name": "Cottage Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Oreo Cookies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Brownies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hard-Boiled Egg"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pickles"
+        },
+        {
+          "favorited": "",
+          "item_name": "Guacamole & Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Crackers & Nut Butter"
+        },
+        {
+          "favorited": "",
+          "item_name": "Olives"
+        },
+        {
+          "favorited": "",
+          "item_name": "Dried Fruits"
+        }
+      ]
+    },
+    "wMnpvpsIYoO4x5V7ymUwkYQhPuC2": {
+      "Fruits": [
+        {
+          "favorited": "",
+          "item_name": "Raspberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blueberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Blackberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Strawberries"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bananas"
+        },
+        {
+          "favorited": "",
+          "item_name": "Kiwis"
+        },
+        {
+          "favorited": "",
+          "item_name": "Grapes"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pineapple"
+        },
+        {
+          "favorited": "",
+          "item_name": "Apples"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pears"
+        }
+      ],
+      "Mains": [
+        {
+          "favorited": "",
+          "item_name": "Bean & Cheese Burrito"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Wrap"
+        },
+        {
+          "favorited": "",
+          "item_name": "Turkey & Pepper Jack Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Chili w/Cheddar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Avocado Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pasta Salad"
+        },
+        {
+          "favorited": "",
+          "item_name": "Sesame Noodles w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Saag Paneer"
+        },
+        {
+          "favorited": "",
+          "item_name": "California Roll"
+        },
+        {
+          "favorited": "",
+          "item_name": "Ramen w/Tofu"
+        },
+        {
+          "favorited": "",
+          "item_name": "Bagel & Cream Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Peanut Butter & Jelly Sandwich"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pizza"
+        }
+      ],
+      "Snacks": [
+        {
+          "favorited": "",
+          "item_name": "Potato Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Tortilla Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Japanese Rice Crackers"
+        },
+        {
+          "favorited": "",
+          "item_name": "Protein Bar"
+        },
+        {
+          "favorited": "",
+          "item_name": "Corn Nuts"
+        },
+        {
+          "favorited": "",
+          "item_name": "Yogurt"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hot Cheetos"
+        },
+        {
+          "favorited": "",
+          "item_name": "Applesauce"
+        },
+        {
+          "favorited": "",
+          "item_name": "Popcorn"
+        },
+        {
+          "favorited": "",
+          "item_name": "Celery w/Cream Cheese & Raisins"
+        },
+        {
+          "favorited": "",
+          "item_name": "Cottage Cheese"
+        },
+        {
+          "favorited": "",
+          "item_name": "Oreo Cookies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Brownies"
+        },
+        {
+          "favorited": "",
+          "item_name": "Hard-Boiled Egg"
+        },
+        {
+          "favorited": "",
+          "item_name": "Pickles"
+        },
+        {
+          "favorited": "",
+          "item_name": "Guacamole & Chips"
+        },
+        {
+          "favorited": "",
+          "item_name": "Crackers & Nut Butter"
+        },
+        {
+          "favorited": "",
+          "item_name": "Olives"
+        },
+        {
+          "favorited": "",
+          "item_name": "Dried Fruits"
+        }
+      ]
+    }
+  }
+}
